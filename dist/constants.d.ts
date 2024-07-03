@@ -1,0 +1,12 @@
+import { Percent } from '@uniswap/sdk-core';
+import JSBI from 'jsbi';
+export declare const INIT_CODE_HASH = "0x9ab0528ffb791f82db46a3030d2a10df4ee42ffba6900ae9ca57152640d91384";
+export declare const MINIMUM_LIQUIDITY: JSBI;
+export declare const ZERO: JSBI;
+export declare const ONE: JSBI;
+export declare const FIVE: JSBI;
+export declare const _997: JSBI;
+export declare const _1000: JSBI;
+export declare const BASIS_POINTS: JSBI;
+export declare const ZERO_PERCENT: Percent;
+export declare const ONE_HUNDRED_PERCENT: Percent;
