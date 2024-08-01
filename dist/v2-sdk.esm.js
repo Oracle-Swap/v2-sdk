@@ -5,7 +5,7 @@ import { BigNumber } from '@ethersproject/bignumber';
 import { keccak256, pack } from '@ethersproject/solidity';
 import invariant from 'tiny-invariant';
 
-var INIT_CODE_HASH = '0x9ab0528ffb791f82db46a3030d2a10df4ee42ffba6900ae9ca57152640d91384';
+var INIT_CODE_HASH = '0xae199cf6bedaa27fee9ef8928dd16925c3846fbe0532e42bbdee6de014e9bef9';
 var MINIMUM_LIQUIDITY = /*#__PURE__*/JSBI.BigInt(1000); // exports for internal consumption
 
 var ZERO = /*#__PURE__*/JSBI.BigInt(0);
