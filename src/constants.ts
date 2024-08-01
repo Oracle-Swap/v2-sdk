@@ -1,7 +1,7 @@
 import { Percent } from '@uniswap/sdk-core'
 import JSBI from 'jsbi'
 
-export const INIT_CODE_HASH = '0x9ab0528ffb791f82db46a3030d2a10df4ee42ffba6900ae9ca57152640d91384'
+export const INIT_CODE_HASH = '0xae199cf6bedaa27fee9ef8928dd16925c3846fbe0532e42bbdee6de014e9bef9'
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
